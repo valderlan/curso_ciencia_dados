@@ -1,1 +1,3 @@
-# curso_ciencia_dados
+# Curso Ciencia Dados
+
+Material do curso.
