@@ -1,7 +1,0 @@
-http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/WholeStory-Iris.html
-
-https://www.kaggle.com/datasets/uciml/iris/discussion?sort=undefined
-
-https://medium.com/comunidadeds/matriz-de-confus%C3%A3o-nunca-mais-se-confunda-utilizando-esse-exemplo-35a9ac63b88a
-
-https://scikit-learn.org/stable/
